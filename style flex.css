@@ -1,0 +1,128 @@
+body {
+    background-color: #fec107;
+    color: #000000;
+    font-family: "Nunito", sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+.h1 {
+    margin: 15px 0;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  .shadow {
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    display: flex;
+  }
+  
+  i {
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    margin: auto;
+  }
+  
+  .container {
+    width: 470px;
+    height: 680px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 5px solid #000000;
+  }
+  
+  .flag {
+    width: 219px;
+    height: 219px;
+    margin: 8px;
+    background-color: #1eff00;
+  }
+  
+  .windows {
+    width: 219px;
+    height: 219px;
+    margin: 7px;
+    margin-top: 16px;
+    background-color: #0a93f5;
+  }
+  
+  .facebook {
+    width: 214px;
+    height: 107px;
+    margin: 7px;
+    background-color: #fec107;
+  }
+  
+  .instagram {
+    width: 101px;
+    height: 215px;
+    margin: 7px;
+    background-color: #704635;
+  }
+  
+  .twitter {
+    width: 101px;
+    height: 101px;
+    margin: 7px;
+    background-color: #ff00aa;
+  }
+  
+  .wifi {
+    width: 101px;
+    height: 101px;
+    margin: 7px;
+    background-color: #ff5e00;
+  }
+  
+  .github {
+    width: 101px;
+    height: 215px;
+    margin: 7px;
+    margin-top: 16px;
+    background-color: #0026ff;
+  }
+  
+  .whatsapp {
+    width: 336px;
+    height: 93px;
+    margin: 7px;
+    background-color: #008d1f;
+  }
+  
+  .save {
+    width: 101px;
+    height: 93px;
+    margin: 7px;
+    background-color: #d900ff;
+  }
+  
+  .youtube {
+    width: 453px;
+    height: 93px;
+    margin: 7px;
+    background-color: #ff0000;
+  }
+  
+  .ketiga {
+    display: flex;
+  }
+  
+  .keempat {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .keenam {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ketujuh {
+    display: flex;
+  }
